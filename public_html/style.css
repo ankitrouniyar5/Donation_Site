@@ -1,0 +1,108 @@
+
+
+      body {
+    
+          font-family: arial;
+          
+        }
+
+        .container{
+          text-align: center;
+          height: 80%;
+          
+        }
+      
+        #homepagecontainer{
+           margin-top: 50px;
+           width: 500px;
+            
+
+        }
+
+        #sign_in_form{
+          display: none;
+        }
+       
+
+       
+        .form-toggler-text{
+
+          color: #34aeeb !important;
+          
+        }
+        .form-toggler-text :hover{
+
+          color: #34aeeb !important;
+          text-decoration: underline !important;
+          
+        }
+        .btn{
+          margin: 10px;
+        }
+
+        #diary{
+          width:100%;
+          margin-right: auto;
+          margin-left: auto;
+          height: 400px;
+          overflow: auto;
+          margin-top: 100px;
+
+        }
+        
+        .homeContainer{
+          margin-top: 40px;
+          text-align: initial;
+         
+
+        }
+        .donations{
+          border:1px solid black;
+          padding: 5px 10px;
+          margin: 8px ;
+          border-radius: 5px;
+          background: #EFEFEF;
+          font-size: 110%;
+        }
+        
+        #requestSuccess,#medicineSuccess,#donationSuccess,#requestFail,#medicineFail,#donationFail{
+          display: none;
+        }
+          
+        
+        @media only screen and (min-width: 768px) {
+        .visible-xs {
+                    display: none;
+                    
+                     }
+          }
+       
+  #sendingMail,#sendingSuccess,#sendingFailed{
+    display: none;
+    width: 40%;
+  }
+  #phone-number-box{
+
+    width:200px;
+  }
+    
+  #error1,#error2{
+    display: none;
+  }
+
+.jumbotron {
+      margin-top: 30px;
+      color: black;
+            background: url("https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.rimonthly.com/content/uploads/2017/05/13134648/79273fcdafee5a663ff26fd2e20936bb-ThinkstockPhotos-482444033web.jpg") center center / cover no-repeat;
+            background: contain;
+            height: 500px;
+        }
+
+#information{
+  text-align: center;
+  margin: 80px 0;
+  }
+
+
+
+
