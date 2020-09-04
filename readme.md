@@ -6,10 +6,12 @@ etc. and it also has the functionality to post request. In addition
 to that someone can mail everyone in the database for blood
 related emergency or some other kind of emergencies
 immediately.
+
 In the website a user has to sign up or login to use its
 functionality. After the successfully signup or login the user can
 view the list of available donations, medicines and requests and
 post in it too.
+
 The website is made in Model-View-Controller (MVC)
 framework using HMTL, CSS, JavaScript, jquery, Bootstrap, php
 and Mysql. The website is hosted on ecowebhosting.uk.com
