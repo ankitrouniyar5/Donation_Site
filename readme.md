@@ -14,6 +14,4 @@ post in it too.
 
 The website is made in Model-View-Controller (MVC)
 framework using HMTL, CSS, JavaScript, jquery, Bootstrap, php
-and Mysql. The website is hosted on ecowebhosting.uk.com
- 
-    http://give-com.stackstaging.com/
+and Mysql.
